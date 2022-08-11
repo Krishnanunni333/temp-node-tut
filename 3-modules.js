@@ -1,0 +1,8 @@
+// Modules - Encapsulated code (only share minimum)
+const {john, peter} = require('./4-names')
+const sayHi = require('./5-utils')
+const {items} = require('./6-alternative-flavour')
+require('./7-mind-granade')
+// sayHi('susan')
+// sayHi(john)
+// sayHi(peter)
